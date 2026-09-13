@@ -1,80 +1,79 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sourav+%F0%9F%91%8B;Full+Stack+%26+AI+Developer;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
+</div>
 
-# 👋 Hey, I'm Sourav!
+<br>
 
-### Full Stack Developer • AI Enthusiast • Open Source Contributor
-
-📍 Gurgaon, India
-
-[![GitHub followers](https://img.shields.io/github/followers/Souravsudow?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Souravsudow)
-[![Profile views](https://komarev.com/ghpvc/?username=Souravsudow&style=for-the-badge&color=blue)](https://github.com/Souravsudow)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif"/>
 </div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I'm a passionate developer focused on building **AI-powered applications**, modern **Full Stack** projects, and contributing to **Open Source**.
+```yaml
+Name: Sourav
+Location: Gurgaon, India 🇮🇳
+Focus: AI • Full Stack • Open Source
+Status: Building in public 🚀
+```
 
-- 🔭 Currently exploring AI, Full Stack development & Open Source
-- 🌱 Always learning new technologies and improving my skills
-- 💡 Love turning ideas into real products
-- ⚡ Fun fact: This is my new GitHub account — the journey has just begun!
+I'm a developer who loves creating **intelligent applications** and clean **full-stack products**. Currently focused on AI-powered tools, modern web apps, and contributing to open source.
 
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 Working on AI + Full Stack projects
+- 🌱 Learning advanced AI/ML concepts & system design
+- 💬 Ask me about **React, Next.js, Node.js, Python, AI tools**
+- ⚡ Fun fact: This GitHub account is new — but the hustle is real
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,linux&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souravsudow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravsudow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+</div>
 
-![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souravsudow&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souravsudow&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souravsudow&theme=radical&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souravsudow&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souravsudow&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+### 🌐 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Souravsudow-181717?style=for-the-badge&logo=github)](https://github.com/Souravsudow)
+[![GitHub](https://img.shields.io/badge/GitHub-Souravsudow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souravsudow)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Souravsudow&style=for-the-badge&color=00D9FF&label=Profile+Views" />
+</div>
 
-**Thanks for visiting!** ⭐
+<br>
 
-*Building cool stuff one commit at a time*
-
+<div align="center">
+  <b>⭐ Thanks for dropping by!</b><br>
+  <i>Building cool stuff. Shipping consistently.</i>
 </div>
